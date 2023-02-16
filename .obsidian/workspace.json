@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Services, To-do/To-do.md",
+                "file": "Day-by-day/Tokyo/Jul. 26 - Tokyo Day 3 and Kyoto Day 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Services, To-do/To-do.md",
+                "file": "Day-by-day/Tokyo/Jul. 26 - Tokyo Day 3 and Kyoto Day 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Services, To-do/To-do.md",
+                "file": "Day-by-day/Tokyo/Jul. 26 - Tokyo Day 3 and Kyoto Day 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Services, To-do/To-do.md"
+                "file": "Day-by-day/Tokyo/Jul. 26 - Tokyo Day 3 and Kyoto Day 0.md"
               }
             }
           }
@@ -261,15 +261,15 @@
   },
   "active": "fab22bdaf6318555",
   "lastOpenFiles": [
-    "Landing.md",
-    "Day-by-day/Tokyo/Jul. 23 - Tokyo Day 0 - Arrival.md",
-    "Day-by-day/Tokyo/Jul. 26 - Tokyo Day 3 and Kyoto Day 0.md",
-    "Services, To-do/Baggage handling and forwarding.md",
     "Day-by-day/Tokyo/Jul. 25 - Tokyo Day 2 - Fuji, Hakone.md",
     "Day-by-day/Tokyo/Jul. 24 - Tokyo Day 1 - Open.md",
+    "Day-by-day/Tokyo/Jul. 23 - Tokyo Day 0 - Arrival.md",
+    "Landing.md",
+    "Services, To-do/Pocket Wi-Fi vs SIM (and eSIM).md",
     "Services, To-do/To-do.md",
+    "Day-by-day/Tokyo/Jul. 26 - Tokyo Day 3 and Kyoto Day 0.md",
+    "Services, To-do/Baggage handling and forwarding.md",
     "Services, To-do/COVID-19 and Entry.md",
-    "Day-by-day/Tokyo/Jul. 26 - Tokyo Day 3 & Kyoto Day 0.md",
-    "Templates/Default.md"
+    "Day-by-day/Tokyo/Jul. 26 - Tokyo Day 3 & Kyoto Day 0.md"
   ]
 }

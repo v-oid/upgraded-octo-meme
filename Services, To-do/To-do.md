@@ -6,7 +6,7 @@
 	- [ ] Tea ceremony
 	- [ ] Book rail seats
 - [ ] Charging converters
-- [ ] [[Baggage handling and forwarding|Luggage services]]
+- [ ] [[Services, To-do/Baggage handling and forwarding|Luggage services]]
 - [ ] [[Pocket Wi-Fi vs SIM (and eSIM)|Pocket WiFi or SIM]]
 - [ ] [[COVID-19 and Entry|COVID]]
 - [ ] Book hotels
