@@ -6,11 +6,10 @@
 	- [ ] Tea ceremony
 	- [ ] Book rail seats
 - [ ] Charging converters
-- [ ] Wifi
-- [ ] COVID
+- [ ] [[Pocket Wi-Fi vs SIM (and eSIM)|Pocket WiFi or SIM]]
+- [ ] [[COVID-19 and Entry|COVID]]
 - [ ] Book hotels
-- [ ] IC cards (suica)
+- [ ] [[IC Cards (Suica) vs. Japan Rail Pass|IC cards (suica) vs JR Pass]]
 - [ ] Travel insurance
 - [ ] Cash/bank
 - [ ] ID photos
-- [ ] Rail pass

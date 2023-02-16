@@ -14,3 +14,4 @@ enableTOC: true
 - Shibuya crossing + surroundings
 - Shibuya Sky? (may be better at day time)
 - Explore Shinjuku
+## Next day: [[Jul. 24 - Tokyo Day 1 - Open]]
