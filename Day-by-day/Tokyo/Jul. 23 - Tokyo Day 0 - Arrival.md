@@ -1,5 +1,5 @@
 ---
-title: Jul. 22 - Tokyo Day 0 - Arrival
+title: Jul. 23 - Tokyo Day 0 - Arrival
 enableTOC: true
 ---
 ## Arrive at Narita Airport @ 4 pm
