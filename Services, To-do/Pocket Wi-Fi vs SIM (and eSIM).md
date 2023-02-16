@@ -1,0 +1,11 @@
+- eSIM is only supported on very new devices (James and I won't be able to use)
+- Costs ($USD)
+	- SIM card: $33/person x10 = $330/person for 15 days
+	- Pocket wifi: $85 for 15 days, $170 if we get 2
+- Data and speed
+	- SIM: 500 MB/day, 150 Mbps
+	- Pocket wifi: Unlimited, 187 Mbps
+- Battery life
+	- SIM: your phone
+	- Pocket wifi: ~10 hours
+- Prices and specs can vary, the above prices and specs are based on the most popular and best overall pocket wifi provider in Japan. Other options can be found here: [Which pocket WiFi is best in 2023?](https://jw-webmagazine.com/pocket-wifi-in-japan-d1a8bc8ed6ff/)

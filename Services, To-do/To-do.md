@@ -1,0 +1,16 @@
+- [ ] Make sure onsen are tattoo friendly
+- [ ] Book some specific restaurants
+- [ ] Buy advanced tickets
+	- [ ] USJ
+	- [ ] Ghibli
+	- [ ] Tea ceremony
+	- [ ] Book rail seats
+- [ ] Charging converters
+- [ ] Wifi
+- [ ] COVID
+- [ ] Book hotels
+- [ ] IC cards (suica)
+- [ ] Travel insurance
+- [ ] Cash/bank
+- [ ] ID photos
+- [ ] Rail pass
