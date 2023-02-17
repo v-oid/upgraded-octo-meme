@@ -10,7 +10,7 @@
 - [ ] [[Pocket Wi-Fi vs SIM (and eSIM)|Pocket WiFi or SIM]]
 - [ ] [[COVID-19 and Entry|COVID]]
 - [ ] Book hotels
-- [ ] [[IC Cards (Suica) vs. Japan Rail Pass|IC cards (suica) vs JR Pass]]
+- [ ] [[Services, To-do/IC Cards (Suica) vs Japan Rail Pass|IC cards (suica) vs JR Pass]]
 - [ ] Travel insurance
 - [ ] Cash/bank
 - [ ] ID photos

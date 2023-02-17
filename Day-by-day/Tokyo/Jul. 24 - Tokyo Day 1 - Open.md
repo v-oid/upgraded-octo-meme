@@ -1,6 +1,6 @@
 ---
 title: Jul. 23 - Tokyo Day 1 - Open
-enableTOC: true
+enableTOC: false
 ---
 ## Originally USJ, now open (Ghibli?)
 ## Tokyo Skytree at night
