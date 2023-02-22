@@ -11,12 +11,8 @@
             "id": "32c83ee1cd6336f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day-by-day/Tokyo/Jul. 23 - Tokyo Day 0 - Arrival.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -35,12 +31,8 @@
             "id": "d07d5fbdfb529915",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day-by-day/Tokyo/Jul. 23 - Tokyo Day 0 - Arrival.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -55,48 +47,32 @@
             "id": "d38aef804cd66b7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day-by-day/Tokyo/Jul. 23 - Tokyo Day 0 - Arrival.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "733f1c6261cc37e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day-by-day/Tokyo/Jul. 23 - Tokyo Day 0 - Arrival.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "30245b09164e8388",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day-by-day/Tokyo/Jul. 24 - Tokyo Day 1 - Open.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "65f460e01061371a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day-by-day/Tokyo/Jul. 25 - Tokyo Day 2 - Fuji, Hakone.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -111,12 +87,8 @@
             "id": "878e0dec1c72f3d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day-by-day/Tokyo/Jul. 23 - Tokyo Day 0 - Arrival.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -125,14 +97,170 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day-by-day/Tokyo/Jul. 26 - Tokyo Day 3 and Kyoto Day 0.md",
+                "file": "Day-by-day/Tokyo/Jul 26 - Tokyo Day 3 and Kyoto Day 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecdf24980525476c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-by-day/Tokyo/Jul 26 - Tokyo Day 3 and Kyoto Day 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "180ccbcd8db798d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-by-day/Kyoto/Jul 27 - Kyoto Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be18ef43be8d6a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-by-day/Kyoto/Jul 28 - Kyoto Day 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "902d6d9fa34555ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-by-day/Osaka and area/Jul 29 - Leave Kyoto, Osaka Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba8d4ff4c475498a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-by-day/Osaka and area/Jul 30 - Osaka Day 2 - USJ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "827467a2aad8378c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-by-day/Osaka and area/Jul 31 - Osaka Day 3 - Wakayama Excursion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e90274bc075b80cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-by-day/Osaka and area/Aug 1 - Osaka Day 4 - Nara excursion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8a39624f14aff14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-by-day/Osaka and area/Aug 2 - Osaka Day 5 - Himeiji Castle or Flex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bacc45f3c9c5edee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-by-day/Tokyo/Jul 26 - Tokyo Day 3 and Kyoto Day 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8ebc3f1aeb7d2cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-by-day/Osaka and area/Aug 2 - Osaka Day 5 - Himeiji Castle or Flex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6098554aa090198a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-by-day/Tokyo/Aug 3 - Leave Osaka, Tokyo Day 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2720139127a9a810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-by-day/Tokyo/Aug 4 - Tokyo Day 5 - Flex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a56d32d0355c34e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day-by-day/Tokyo/Aug 5 - Leaving Day.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -151,7 +279,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -198,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day-by-day/Tokyo/Jul. 26 - Tokyo Day 3 and Kyoto Day 0.md",
+                "file": "Day-by-day/Tokyo/Aug 5 - Leaving Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day-by-day/Tokyo/Jul. 26 - Tokyo Day 3 and Kyoto Day 0.md",
+                "file": "Day-by-day/Tokyo/Aug 5 - Leaving Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day-by-day/Tokyo/Jul. 26 - Tokyo Day 3 and Kyoto Day 0.md"
+                "file": "Day-by-day/Tokyo/Aug 5 - Leaving Day.md"
               }
             }
           }
@@ -259,17 +387,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fab22bdaf6318555",
+  "active": "9a56d32d0355c34e",
   "lastOpenFiles": [
-    "Day-by-day/Tokyo/Jul. 25 - Tokyo Day 2 - Fuji, Hakone.md",
-    "Day-by-day/Tokyo/Jul. 24 - Tokyo Day 1 - Open.md",
-    "Day-by-day/Tokyo/Jul. 23 - Tokyo Day 0 - Arrival.md",
+    "Day-by-day/Tokyo/Aug 4 - Tokyo Day 5 - Flex.md",
+    "Day-by-day/Tokyo/Aug 3 - Leave Osaka, Tokyo Day 4.md",
+    "Day-by-day/Osaka and area/Aug 2 - Osaka Day 5 - Himeiji Castle or Flex.md",
+    "Day-by-day/Kyoto/Jul 26 - Tokyo Day 3 and Kyoto Day 0.md",
+    "Day-by-day/Tokyo/Jul 26 - Tokyo Day 3 and Kyoto Day 0.md",
+    "Day-by-day/Osaka and area/Aug 1 - Osaka Day 4 - Nara excursion.md",
+    "Day-by-day/Osaka and area/Jul 29 - Leave Kyoto, Osaka Day 1.md",
     "Landing.md",
-    "Services, To-do/Pocket Wi-Fi vs SIM (and eSIM).md",
-    "Services, To-do/To-do.md",
-    "Day-by-day/Tokyo/Jul. 26 - Tokyo Day 3 and Kyoto Day 0.md",
-    "Services, To-do/Baggage handling and forwarding.md",
-    "Services, To-do/COVID-19 and Entry.md",
-    "Day-by-day/Tokyo/Jul. 26 - Tokyo Day 3 & Kyoto Day 0.md"
+    "Day-by-day/Osaka and area/Jul 31 - Osaka Day 3 - Wakayama Excursion.md",
+    "Day-by-day/Osaka and area/Jul 30 - Osaka Day 2 - USJ.md"
   ]
 }
