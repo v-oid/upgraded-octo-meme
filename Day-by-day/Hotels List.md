@@ -1,0 +1,41 @@
+## Tokyo
+- Seems like Shinjuku is the best area to stay. The vibe overall is big city, bright neon lights, lots of restaurants, bars, shopping. Most recommended/popular with first time tourists
+	- Cons:
+		- few people mention it's "seedier" or a bit dirtier compared to other parts of Tokyo, but still clean by big city standards
+		- the Shinjuku station is apparently is massive maze with 200 exits
+- Other options:
+	- Shibuya: Just south of Shinjuku, also big metropolitan area, slightly younger than Shinjuku
+	- Asakusa: Other side of the city (East) from Sinjuku/Shibuya, completely different vibe: more old tokyo, old Japanese style, historically a Samurai district
+- #### Keio Plaza Hotel Tokyo (current best)
+	- Location: West Shinjuku, 5 mins away from Shinjuku Station
+	- Price: Moderate ($309 now, $504 normally)
+	- Rooms: 23.5 - 33 sqm
+	- Nearby:
+		- Shinjuku station
+		- Kabukicho (Red Light District)
+		- Shinjuku nightlife activities
+- #### The Park Hyatt Tokyo
+	- Location: West Shinjuku, 10 mins away from Shinjuku Station
+	- Price: Extreme Splurge ($1000+/night)
+	- Rooms:
+	- Nearby:
+- #### Hilton Tokyo
+	- Location: West Shinjuku, 15 mins away from Shinjuku Station
+	- Price: $540 per night
+	- Rooms: 28-30 sqm
+	- Nearby:
+- #### Odakyu Hotel Century Southern Tower (possibly unavailable for our dates)
+	- Location: South of Shinjuku Station
+	- Price: $300 per night
+	- Rooms:
+	- Nearby:
+		- Omoide Yochocho - tiny bars and restaurants
+- #### ONSEN RYOKAN YUEN SHINJUKU
+	- Location: 5 min from Shinjuku Station
+	- Price: $150 per night
+	- Rooms: Queen rooms: 25 sqm, double twin 15 sqm
+	- Nearby:
+	- Notes: Interesting choice, pretty small but extremely clean looking design + ryokan style, but not a true ryokan
+
+## Osaka
+- Konjakuso Ryokan
