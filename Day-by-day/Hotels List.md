@@ -9,7 +9,7 @@
 		- Asakusa: Other side of the city (East) from Sinjuku/Shibuya, completely different vibe: more old tokyo, old Japanese style, historically a Samurai district
 - #### Keio Plaza Hotel Tokyo (current best)
 	- Location: West Shinjuku, 5 mins away from Shinjuku Station
-	- Price: Moderate ($309 now, $504 normally)
+	- Price: Moderate (\$309 now, \$504 normally)
 	- Rooms: 23.5 - 33 sqm
 	- Nearby:
 		- Shinjuku station
@@ -17,23 +17,23 @@
 		- Shinjuku nightlife activities
 - #### The Park Hyatt Tokyo
 	- Location: West Shinjuku, 10 mins away from Shinjuku Station
-	- Price: Extreme Splurge ($1000+/night)
+	- Price: Extreme Splurge (\$1000+/night)
 	- Rooms:
 	- Nearby:
 - #### Hilton Tokyo
 	- Location: West Shinjuku, 15 mins away from Shinjuku Station
-	- Price: $540 per night
+	- Price: \$540 per night
 	- Rooms: 28-30 sqm
 	- Nearby:
 - #### Odakyu Hotel Century Southern Tower (possibly unavailable for our dates)
 	- Location: South of Shinjuku Station
-	- Price: $300 per night
+	- Price: \$300 per night
 	- Rooms:
 	- Nearby:
 		- Omoide Yochocho - tiny bars and restaurants
 - #### ONSEN RYOKAN YUEN SHINJUKU
 	- Location: 5 min from Shinjuku Station
-	- Price: $150 per night
+	- Price: \$150 per night
 	- Rooms: Queen rooms: 25 sqm, double twin 15 sqm
 	- Nearby:
 	- Notes: Interesting choice, pretty small but extremely clean looking design + ryokan style, but not a true ryokan
@@ -52,16 +52,16 @@
 - #### [Kiyomizuan 坂田基禎さん改築の京町家](https://www.booking.com/hotel/jp/kiyomizuan.html) (tied best)
 	- an entire house, 4 bedrooms of futons
 	- Location: Higashiyama district, within walking distance of Kiyomizudera and the famous Nineizaka and other preserved historical walking streets (the stereotypical Kyoto streets)
-	- Price: $1551 for 3 nights, 8 adults. Comes down to ~$60-70 per night per person
+	- Price: \$1551 for 3 nights, 8 adults. Comes down to ~\$60-70 per night per person
 - #### [京都ヴィラ三年坂 by 宿ルKYOTO HANARE](https://www.booking.com/hotel/jp/hanare-kyoto-jing-du-vuirasan-nian-ban.html?lang=en-us&soz=1&lang_changed=1) (tied best)
 	- an entire house, 3 bedrooms, total of 3 full beds and 2 futon beds
 	- Location: Higashiyama district, literally located on the famous Sannenzaka historical streets, even closer to Kiyomizudera (basically on the doorsteps)
 		- this could mean it can be quite noisy at night?
-	- Price: $902 for 3 nights, 8 adults. Comes down to ~$40 per person per night
+	- Price: \$902 for 3 nights, 8 adults. Comes down to ~\$40 per person per night
 - #### Hotel options: haven't looked into
 
 ## Osaka
 - #### [Konjakuso Ryokan](https://www.airbnb.ca/rooms/32854655?source_impression_id=p3_1677124617_CSTOdS3q9BRP%2Fb1A)
 	- a full Japanese house, 10 beds apparently, 4 bedrooms
-	- Price: ~$5300 for 4 nights, 8 adults. Comes down then to ~$165 per night per person
+	- Price: ~\$5300 for 4 nights, 8 adults. Comes down then to ~\$165 per night per person
 - 
