@@ -52,12 +52,12 @@
 - #### [Kiyomizuan 坂田基禎さん改築の京町家](https://www.booking.com/hotel/jp/kiyomizuan.html) (tied best)
 	- an entire house, 4 bedrooms of futons
 	- Location: Higashiyama district, within walking distance of Kiyomizudera and the famous Nineizaka and other preserved historical walking streets (the stereotypical Kyoto streets)
-	- Price: \$1551 for 3 nights, 8 adults. Comes down to \~\$60-70 per night per person
+	- Price: \$1551 for 3 nights, 8 adults. Comes down to <span>~$</span>60-70 per night per person
 - #### [京都ヴィラ三年坂 by 宿ルKYOTO HANARE](https://www.booking.com/hotel/jp/hanare-kyoto-jing-du-vuirasan-nian-ban.html?lang=en-us&soz=1&lang_changed=1) (tied best)
 	- an entire house, 3 bedrooms, total of 3 full beds and 2 futon beds
 	- Location: Higashiyama district, literally located on the famous Sannenzaka historical streets, even closer to Kiyomizudera (basically on the doorsteps)
 		- this could mean it can be quite noisy at night?
-	- Price: \$902 for 3 nights, 8 adults. Comes down to \~\$40 per person per night
+	- Price: <span>$902</span> for 3 nights, 8 adults. Comes down to <span>~$</span>40 per person per night
 - #### Hotel options: haven't looked into
 
 ## Osaka
