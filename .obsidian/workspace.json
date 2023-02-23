@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day-by-day/Osaka and area/Aug 2 - Osaka Day 5 - Himeiji Castle or Flex.md",
-                "mode": "source",
+                "file": "Day-by-day/Hotels List.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day-by-day/Osaka and area/Aug 2 - Osaka Day 5 - Himeiji Castle or Flex.md",
+                "file": "Day-by-day/Hotels List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day-by-day/Osaka and area/Aug 2 - Osaka Day 5 - Himeiji Castle or Flex.md",
+                "file": "Day-by-day/Hotels List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day-by-day/Osaka and area/Aug 2 - Osaka Day 5 - Himeiji Castle or Flex.md"
+                "file": "Day-by-day/Hotels List.md"
               }
             }
           }
@@ -160,15 +160,15 @@
   },
   "active": "4736e7f6b31c25d7",
   "lastOpenFiles": [
-    "Day-by-day/Hotels List.md",
-    "Day-by-day/Tokyo/Jul 23 - Tokyo Day 0 - Arrival.md",
-    "Day-by-day/Tokyo/Jul 24 - Tokyo Day 1 - Open.md",
-    "Templates/Tiktok Dump.md",
-    "Day-by-day/Tokyo/Aug 5 - Leaving Day.md",
-    "Day-by-day/Tokyo/Aug 4 - Tokyo Day 5 - Flex.md",
-    "Day-by-day/Tokyo/Aug 3 - Leave Osaka, Tokyo Day 4.md",
-    "Day-by-day/Osaka and area/Aug 2 - Osaka Day 5 - Himeiji Castle or Flex.md",
+    "Day-by-day/Kyoto/Jul 27 - Kyoto Day 1.md",
+    "Services, To-do/COVID-19 and Entry.md",
+    "Services, To-do/Baggage handling and forwarding.md",
     "Day-by-day/Kyoto/Jul 26 - Tokyo Day 3 and Kyoto Day 0.md",
-    "Day-by-day/Tokyo/Jul 26 - Tokyo Day 3 and Kyoto Day 0.md"
+    "Day-by-day/Osaka and area/Jul 29 - Leave Kyoto, Osaka Day 1.md",
+    "Day-by-day/Hotels List.md",
+    "Day-by-day/Kyoto/Jul 28 - Kyoto Day 2.md",
+    "Day-by-day/Tokyo/Jul 23 - Tokyo Day 0 - Arrival.md",
+    "Day-by-day/Osaka and area/Jul 30 - Osaka Day 2 - USJ.md",
+    "Landing.md"
   ]
 }

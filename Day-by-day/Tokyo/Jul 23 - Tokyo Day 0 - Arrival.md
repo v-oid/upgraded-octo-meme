@@ -15,4 +15,5 @@ enableTOC: true
 - Shibuya Sky? (may be better at day time)
 - Explore Shinjuku
 	- Omoide Yochocho - tiny bars and restaurants
+
 ### Next day: [[Day-by-day/Tokyo/Jul 24 - Tokyo Day 1 - Open|Tokyo Day 1]]

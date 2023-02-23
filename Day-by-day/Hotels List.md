@@ -1,11 +1,12 @@
 ## Tokyo
-- Seems like Shinjuku is the best area to stay. The vibe overall is big city, bright neon lights, lots of restaurants, bars, shopping. Most recommended/popular with first time tourists
-	- Cons:
-		- few people mention it's "seedier" or a bit dirtier compared to other parts of Tokyo, but still clean by big city standards
-		- the Shinjuku station is apparently is massive maze with 200 exits
-- Other options:
-	- Shibuya: Just south of Shinjuku, also big metropolitan area, slightly younger than Shinjuku
-	- Asakusa: Other side of the city (East) from Sinjuku/Shibuya, completely different vibe: more old tokyo, old Japanese style, historically a Samurai district
+- #### Districts:
+	- Seems like Shinjuku is the best area to stay. The vibe overall is big city, bright neon lights, lots of restaurants, bars, shopping. Most recommended/popular with first time tourists
+		- Cons:
+			- few people mention it's "seedier" or a bit dirtier compared to other parts of Tokyo, but still clean by big city standards
+			- the Shinjuku station is apparently is massive maze with 200 exits
+	- Other options:
+		- Shibuya: Just south of Shinjuku, also big metropolitan area, slightly younger than Shinjuku
+		- Asakusa: Other side of the city (East) from Sinjuku/Shibuya, completely different vibe: more old tokyo, old Japanese style, historically a Samurai district
 - #### Keio Plaza Hotel Tokyo (current best)
 	- Location: West Shinjuku, 5 mins away from Shinjuku Station
 	- Price: Moderate ($309 now, $504 normally)
@@ -37,5 +38,30 @@
 	- Nearby:
 	- Notes: Interesting choice, pretty small but extremely clean looking design + ryokan style, but not a true ryokan
 
+## Kyoto
+- #### Districts
+	- ##### Downtown: 
+		- Pros: lots to do, central, connected. 
+		- Cons: lost it's old-world charm, touristy
+	- ##### Higashiyama/Gion:
+		- Pros: lots to do, many attractions nearby including things on our list, connected, old-worldy
+		- Cons: still touristy, very busy
+	- ##### Arashiyama
+		- Pros: secluded, quiet, lots of Ryokans, close to bamboo forest and Fushimi-Inari Shrine
+		- Cons: out of the way from everything else, ~30 min drive to central Kyoto
+- #### [Kiyomizuan 坂田基禎さん改築の京町家](https://www.booking.com/hotel/jp/kiyomizuan.html) (tied best)
+	- an entire house, 4 bedrooms of futons
+	- Location: Higashiyama district, within walking distance of Kiyomizudera and the famous Nineizaka and other preserved historical walking streets (the stereotypical Kyoto streets)
+	- Price: $1551 for 3 nights, 8 adults. Comes down to ~$60-70 per night per person
+- #### [京都ヴィラ三年坂 by 宿ルKYOTO HANARE](https://www.booking.com/hotel/jp/hanare-kyoto-jing-du-vuirasan-nian-ban.html?lang=en-us&soz=1&lang_changed=1) (tied best)
+	- an entire house, 3 bedrooms, total of 3 full beds and 2 futon beds
+	- Location: Higashiyama district, literally located on the famous Sannenzaka historical streets, even closer to Kiyomizudera (basically on the doorsteps)
+		- this could mean it can be quite noisy at night?
+	- Price: $902 for 3 nights, 8 adults. Comes down to ~$40 per person per night
+- #### Hotel options: haven't looked into
+
 ## Osaka
-- Konjakuso Ryokan
+- #### [Konjakuso Ryokan](https://www.airbnb.ca/rooms/32854655?source_impression_id=p3_1677124617_CSTOdS3q9BRP%2Fb1A)
+	- a full Japanese house, 10 beds apparently, 4 bedrooms
+	- Price: ~$5300 for 4 nights, 8 adults. Comes down then to ~$165 per night per person
+- 
