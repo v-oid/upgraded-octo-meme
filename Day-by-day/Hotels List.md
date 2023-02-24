@@ -40,7 +40,7 @@
 
 ## Kyoto
 - #### Districts
-	- ##### Downtown: 
+	- ##### Downtown/Central: 
 		- Pros: lots to do, central, connected. 
 		- Cons: lost it's old-world charm, touristy
 	- ##### Higashiyama/Gion:
@@ -49,15 +49,34 @@
 	- ##### Arashiyama
 		- Pros: secluded, quiet, lots of Ryokans, close to bamboo forest and Fushimi-Inari Shrine
 		- Cons: out of the way from everything else, ~30 min drive to central Kyoto
-- #### [Kiyomizuan 坂田基禎さん改築の京町家](https://www.booking.com/hotel/jp/kiyomizuan.html) (tied best)
+- #### [Kiyomizuan 坂田基禎さん改築の京町家](https://www.booking.com/hotel/jp/kiyomizuan.html)
 	- an entire house, 4 bedrooms of futons
-	- Location: Higashiyama district, within walking distance of Kiyomizudera and the famous Nineizaka and other preserved historical walking streets (the stereotypical Kyoto streets)
+	- Location: Higashiyama district, within walking distance of Kiyomizudera and the famous Sannenzaka and other preserved historical walking streets (the stereotypical Kyoto streets)
 	- Price: \$1551 for 3 nights, 8 adults. Comes down to <span>~$</span>60-70 per night per person
-- #### [京都ヴィラ三年坂 by 宿ルKYOTO HANARE](https://www.booking.com/hotel/jp/hanare-kyoto-jing-du-vuirasan-nian-ban.html?lang=en-us&soz=1&lang_changed=1) (tied best)
+- #### [京都ヴィラ三年坂 by 宿ルKYOTO HANARE](https://www.booking.com/hotel/jp/hanare-kyoto-jing-du-vuirasan-nian-ban.html?lang=en-us&soz=1&lang_changed=1)
 	- an entire house, 3 bedrooms, total of 3 full beds and 2 futon beds
 	- Location: Higashiyama district, literally located on the famous Sannenzaka historical streets, even closer to Kiyomizudera (basically on the doorsteps)
 		- this could mean it can be quite noisy at night?
 	- Price: <span>$902</span> for 3 nights, 8 adults. Comes down to <span>~$</span>40 per person per night
+- #### [The Old Modern Machiya](https://oldkyoto.com/property/38702) (more expensive, more rooms, better design)
+	- an entire house, very nice design, has a court yard. 7 bedrooms and 4 bathrooms
+	- Location: Also Higashiyama district, 12 min walk to Sannenzaka, \~15 min walk to Kiyomizudera
+	- Price: \$1258/night for 8 adults, comes down to \$157.25 per person per night
+- #### [Hanatoki Machiya](https://go-machiyainnsandhotels.reservation.jp/en/hotels/hanatoki)
+	- entire house, sleeps 8, has a garden/courtyard
+	- Location: ~40 min. walk from Kiyomizudera and area, but is located in central Kyoto which has other things to do
+		- Address: 302-12, Daikoku-cho, Higashiyama-ku, Kyoto, Kyoto, 605-0832, Japan.
+	- Price: \$111 per person per night
+- #### [Chawanzaka Machiya](https://go-machiyainnsandhotels.reservation.jp/en/hotels/chawanzaka)
+	- entire house, sleeps 9, 4 bedrooms, has a courtyard/garden
+	- Location: on the doorsteps of Sannenzaka and Kiyomizudera, in the heart of Gion
+		- Address: 6-chōme-583-51 Gojōbashihigashi, Higashiyama Ward, Kyoto, 605-0846, Japan
+	- Price: \$110 per person per night
+- #### [Yoitsubaki Machiya](https://go-machiyainnsandhotels.reservation.jp/en/hotels/yoitsubaki)
+	- entire house, sleeps 8, 3 bedrooms, has a courtyard/garden
+	- Location: a bit further in souther Higashiyama, 20 mins walk from Sannenzaka and Kiyomizudera
+		- Address: 656-13 Honkawarachō, Higashiyama Ward, Kyoto, 605-0963, Japan
+	- Price: \$93 per person per night
 - #### Hotel options: haven't looked into
 
 ## Osaka
