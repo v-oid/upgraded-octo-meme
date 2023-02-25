@@ -7,7 +7,7 @@
 	- Other options:
 		- Shibuya: Just south of Shinjuku, also big metropolitan area, slightly younger than Shinjuku
 		- Asakusa: Other side of the city (East) from Sinjuku/Shibuya, completely different vibe: more old tokyo, old Japanese style, historically a Samurai district
-- #### Keio Plaza Hotel Tokyo (current best)
+- #### Keio Plaza Hotel Tokyo (current favourite)
 	- Location: West Shinjuku, 5 mins away from Shinjuku Station
 	- Price: Moderate (<span>$</span>309 now, <span>$</span>504 normally)
 	- Rooms: 23.5 - 33 sqm
@@ -61,10 +61,10 @@
 - #### [The Old Modern Machiya](https://oldkyoto.com/property/38702) (more expensive, more rooms, better design)
 	- an entire house, very nice design, has a court yard. 7 bedrooms and 4 bathrooms
 	- Location: Also Higashiyama district, 12 min walk to Sannenzaka, \~15 min walk to Kiyomizudera
-	- Price: \$1258/night for 8 adults, comes down to \$157.25 per person per night
-- #### [Hanatoki Machiya](https://go-machiyainnsandhotels.reservation.jp/en/hotels/hanatoki)
+	- Price: <span>$</span>1258/night for 8 adults, comes down to \$157.25 per person per night
+- #### [Hanatoki Machiya](https://go-machiyainnsandhotels.reservation.jp/en/hotels/hanatoki) (current favourite)
 	- entire house, sleeps 8, has a garden/courtyard
-	- Location: ~40 min. walk from Kiyomizudera and area, but is located in central Kyoto which has other things to do
+	- Location: ~~\~40 min~~ 7 min. walk from Kiyomizudera and area, but is located in central Kyoto which has other things to do
 		- Address: 302-12, Daikoku-cho, Higashiyama-ku, Kyoto, Kyoto, 605-0832, Japan.
 	- Price: \$111 per person per night
 - #### [Chawanzaka Machiya](https://go-machiyainnsandhotels.reservation.jp/en/hotels/chawanzaka)
