@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "de0812d5b38a5d3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Services, To-do/Discussion list for next meeting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2fbe38b9a752c730",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d152ea0a1ddeb101",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day-by-day/Hotels List.md",
+                "file": "Services, To-do/Discussion list for next meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day-by-day/Hotels List.md",
+                "file": "Services, To-do/Discussion list for next meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day-by-day/Hotels List.md"
+                "file": "Services, To-do/Discussion list for next meeting.md"
               }
             }
           }
@@ -158,15 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4736e7f6b31c25d7",
+  "active": "de0812d5b38a5d3d",
   "lastOpenFiles": [
+    "Day-by-day/Hotels List.md",
+    "Services, To-do/Discussion list for next meeting.md",
+    "Day-by-day/Kyoto/Jul 28 - Kyoto Day 2.md",
     "Day-by-day/Kyoto/Jul 27 - Kyoto Day 1.md",
+    "Day-by-day/Kyoto/Jul 26 - Tokyo Day 3 and Kyoto Day 0.md",
+    "Services, To-do/Tiktok Dump.md",
     "Services, To-do/COVID-19 and Entry.md",
     "Services, To-do/Baggage handling and forwarding.md",
-    "Day-by-day/Kyoto/Jul 26 - Tokyo Day 3 and Kyoto Day 0.md",
     "Day-by-day/Osaka and area/Jul 29 - Leave Kyoto, Osaka Day 1.md",
-    "Day-by-day/Hotels List.md",
-    "Day-by-day/Kyoto/Jul 28 - Kyoto Day 2.md",
     "Day-by-day/Tokyo/Jul 23 - Tokyo Day 0 - Arrival.md",
     "Day-by-day/Osaka and area/Jul 30 - Osaka Day 2 - USJ.md",
     "Landing.md"
