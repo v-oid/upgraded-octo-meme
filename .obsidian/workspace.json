@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day-by-day/Hotels List.md",
+                "file": "Landing.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day-by-day/Tokyo/Jul 23 - Tokyo Day 0 - Arrival.md",
+                "file": "Day-by-day/Hotels List.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d152ea0a1ddeb101",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Services, To-do/Discussion list for next meeting.md",
+                "file": "Landing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Services, To-do/Discussion list for next meeting.md",
+                "file": "Landing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Services, To-do/Discussion list for next meeting.md"
+                "file": "Landing.md"
               }
             }
           }
@@ -172,19 +170,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de0812d5b38a5d3d",
+  "active": "4736e7f6b31c25d7",
   "lastOpenFiles": [
+    "Day-by-day/Kyoto/Jul 27 - Kyoto Day 1.md",
+    "Day-by-day/Kyoto/Jul 28 - Kyoto Day 2.md",
+    "Day-by-day/Osaka and area/Jul 30 - Osaka Day 1 - Potpourri.md",
+    "Day-by-day/Osaka and area/Aug 2 - Osaka Day 4 - Himeiji Castle and Kobe.md",
+    "Day-by-day/Osaka and area/Aug 1 - Osaka Day 3 - Nara excursion.md",
+    "Day-by-day/Osaka and area/Jul 31 - Osaka Day 2 - USJ.md",
+    "Day-by-day/Kyoto/Jul 29 - Kyoto Day 3.md",
+    "Landing.md",
     "Day-by-day/Hotels List.md",
     "Services, To-do/Discussion list for next meeting.md",
-    "Day-by-day/Kyoto/Jul 28 - Kyoto Day 2.md",
-    "Day-by-day/Kyoto/Jul 27 - Kyoto Day 1.md",
     "Day-by-day/Kyoto/Jul 26 - Tokyo Day 3 and Kyoto Day 0.md",
+    "Day-by-day/Tokyo/Jul 23 - Tokyo Day 0 - Arrival.md",
     "Services, To-do/Tiktok Dump.md",
     "Services, To-do/COVID-19 and Entry.md",
-    "Services, To-do/Baggage handling and forwarding.md",
-    "Day-by-day/Osaka and area/Jul 29 - Leave Kyoto, Osaka Day 1.md",
-    "Day-by-day/Tokyo/Jul 23 - Tokyo Day 0 - Arrival.md",
-    "Day-by-day/Osaka and area/Jul 30 - Osaka Day 2 - USJ.md",
-    "Landing.md"
+    "Services, To-do/Baggage handling and forwarding.md"
   ]
 }

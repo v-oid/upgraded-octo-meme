@@ -1,5 +1,5 @@
-- [ ] Adding Kurama and Kibune as a day trip during our Kyoto stay
-- [ ] Moving to stay in Osaka vs. just staying in Kyoto vs. moving hotels in Kyoto to Kyoto station area
-- [ ] Taking out Wakayama, we can't do it justice going for a day and coming back
-- [ ] Adding Kobe as a day trip during our Osaka stay
+- [x] Adding Kurama and Kibune as a day trip during our Kyoto stay -- Approved
+- [x] Moving to stay in Osaka vs. just staying in Kyoto vs. moving hotels in Kyoto to Kyoto station area -- Rejected
+- [x] Taking out Wakayama, we can't do it justice going for a day and coming back -- Approved
+- [x] Adding Kobe as a day trip during our Osaka stay
 - [ ] Second stay in Tokyo, same area or different, hotel or more traditional/house
